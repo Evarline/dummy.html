@@ -26,6 +26,7 @@ Built as a learning project to learn:
 or
 
 *bash*
+
 **Navigate  to the folder**
 
 *cd dummy*
