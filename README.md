@@ -17,16 +17,17 @@ Built as a learning project to learn:
 * DOM Manipulation/Using JS to change HTML OR CSS
 * CSS animations
 * Git functions
-* README  symbols
+* Applying my UIUX skills
 * Built with love to celebrate my birthday
 
 ##### How to run
+ [you can view it here (https://evarline.github.io/dummy.html/)
+
 * In the index.html file right click and run using a live server, check the browser.
 
 or
 
 *bash*
-
 
 *cd dummy*
 
