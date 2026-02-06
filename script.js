@@ -1,5 +1,5 @@
 /*birthday date and time*/
-const birthdayDate = new Date("Feb 6, 2026 13:21:00").getTime();
+const birthdayDate = new Date("Feb 8, 2026 00:00:00").getTime();
 
 /*time interval function to update the countdown every second*/
 const countdownFunction = setInterval(() => {
