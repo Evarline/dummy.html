@@ -27,11 +27,10 @@ or
 
 *bash*
 
-**Navigate  to the folder**
 
 *cd dummy*
 
-*xdg-open index.html
+xdg-open index.html
 
 ##### Kill SWitch
 - ctrl+c
