@@ -66,17 +66,19 @@ h1{
 .current-status{
     margin-top: 40px;
     font-size: 2rem;
-    border: #c9a24d 1px solid;
+
     display: flex;      /* center the content /auto-layout*/
-    padding: 5px 30px;
-    border-radius: 5px 5px 10px 10px;
-    background-color: var(--background-color);
-    height: 50px;
     align-items: center;
-    text-align: center;
     justify-content: center;
     gap: 30px;
-    corner-smooth: 60px;
+    
+    border: #c9a24d 1px solid;
+    padding: 5px 30px;
+    height: auto;
+    min-height: 30px;
+
+    border-radius: 5px 5px 10px 10px;
+    background-color: var(--background-color);
     box-shadow: 0 0 10px #c9a24d;
     
        
@@ -155,6 +157,7 @@ h1{
     shadow: 0 0 50px var(--countdown-numbers);
 
 }
+
 
     
     
