@@ -24,7 +24,7 @@ const countdownFunction = setInterval(() => {
         document.querySelector(".timer").style.display = "none";
          document.querySelector(".current-status").style.display = "none";
          document.querySelector(".message").style.display = "none";
-    }
+   }
     }, 1000);
          
 

@@ -32,7 +32,7 @@ h1{
     
 }
 .timer{
-    display: flex;
+    display: inline-flex;
     gap: 30px;
     justify-content: center;
     align-items: center;
@@ -71,14 +71,13 @@ h1{
     padding: 5px 30px;
     border-radius: 5px 5px 10px 10px;
     background-color: var(--background-color);
-
     height: 50px;
     align-items: center;
     text-align: center;
-    justify-content: space-between;
+    justify-content: center;
+    gap: 30px;
     corner-smooth: 60px;
-    box-shadow:
-     0 0 10px #c9a24d;
+    box-shadow: 0 0 10px #c9a24d;
     
        
 }
