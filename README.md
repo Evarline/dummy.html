@@ -21,7 +21,9 @@ Built as a learning project to learn:
 * Built with love to celebrate my birthday
 
 ##### How to run
- [you can view it here (https://evarline.github.io/dummy.html/)
+ * you can view it here (https://evarline.github.io/dummy.html/)
+
+ or
 
 * In the index.html file right click and run using a live server, check the browser.
 

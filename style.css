@@ -73,12 +73,13 @@ h1{
     background-color: var(--background-color);
 
     height: 50px;
+    align-items: center;
     text-align: center;
     justify-content: space-between;
     corner-smooth: 60px;
     box-shadow:
      0 0 10px #c9a24d;
-      /*multiple shadows = rich glow effect*/
+    
        
 }
  
