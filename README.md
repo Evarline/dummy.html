@@ -4,7 +4,7 @@
 ## Features
 * Live countdown timer(Days, hours, minutes, seconds)
 * Smooth heartbeat animation
-*  Clean and minimal UI
+* Clean and minimal UI
 * Beginner-friendly code
 
 ### Top languages
@@ -21,16 +21,19 @@ Built as a learning project to learn:
 * Built with love to celebrate my birthday
 
 ##### How to run
-* In the index.html file right click and run using a live server, check the browser
+* In the index.html file right click and run using a live server, check the browser.
+
 or
+
 *bash*
 **Navigate  to the folder**
-cd dummy
+*cd dummy*
+
 xdg-open index.html
 
 ##### Kill SWitch
--ctrl+c
+- ctrl+c
 
 ###### Author
-**Evarline Mipata**
+**Everline Mipata**
 
